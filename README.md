@@ -5,7 +5,7 @@
 
 python3 -m venv .dack
 
-.\.dack\Scripts\Activate.ps1
+.dack\Scripts\Activate.ps1
 
 python3 -m pip install -r requirements.txt
 
