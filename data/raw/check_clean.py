@@ -4,7 +4,7 @@ import numpy as np
 
 # 1. THIET LAP DUONG DAN TUYET DOI
 BASE_DIR = Path(__file__).resolve().parent
-FILE_NAME = "weather_VVTS_2026_to_2026.csv"  # Thay bang ten file CSV cua ban
+FILE_NAME = "weather_VVTS_202501_to_202610.csv"  # Thay bang ten file CSV cua ban
 FILE_PATH = BASE_DIR / FILE_NAME
 
 if not FILE_PATH.exists():
