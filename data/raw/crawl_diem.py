@@ -5,7 +5,7 @@ import io
 # 1. Khai báo các thông số bạn muốn lấy
 station = "VVTS"       # Mã sân bay Tân Sơn Nhất (Đổi thành VVNB nếu muốn lấy Nội Bài)
 start_year, start_month, start_day = 2026, 1, 1
-end_year, end_month, end_day = 2026, 10, 1
+end_year, end_month, end_day = 2026,10,1
 
 # 2. Tạo đường link URL tự động
 url = (
