@@ -1,0 +1,549 @@
+﻿flight_date,flight_number,airline_name,scheduled_dep_vn,actual_dep_vn,generic_status,is_canceled,is_diverted,delay_minutes
+2026-10-13,9G1965,Sun PhuQuoc Airways,2026-10-13 10:35:00,2026-10-13 10:38:35,departed,False,False,4.0
+2026-10-13,9G958,Sun PhuQuoc Airways,2026-10-13 10:35:00,2026-10-13 10:43:44,departed,False,False,9.0
+2026-10-13,VN1264,Vietnam Airlines (SkyTeam Livery),2026-10-13 10:40:00,2026-10-13 10:57:04,departed,False,False,17.0
+2026-10-13,VJ634,VietJet Air,2026-10-13 10:45:00,2026-10-13 11:15:10,departed,False,False,30.0
+2026-10-13,VJ244,VietJet Air,2026-10-13 10:45:00,2026-10-13 11:12:59,departed,False,False,28.0
+2026-10-13,CI782,China Airlines,2026-10-13 10:50:00,2026-10-13 11:22:57,departed,False,False,33.0
+2026-10-13,9G832,Sun PhuQuoc Airways,2026-10-13 11:00:00,2026-10-13 11:27:53,departed,False,False,28.0
+2026-10-13,VN246,Vietnam Airlines,2026-10-13 11:00:00,2026-10-13 11:08:11,departed,False,False,8.0
+2026-10-13,VN126,Air Cambodia,2026-10-13 11:00:00,2026-10-13 11:29:43,departed,False,False,30.0
+2026-10-13,VJ1276,VietJet Air,2026-10-13 11:00:00,2026-10-13 11:19:12,departed,False,False,19.0
+2026-10-13,MH751,Malaysia Airlines,2026-10-13 11:00:00,2026-10-13 11:10:59,departed,False,False,11.0
+2026-10-13,VN1370,Vietnam Airlines,2026-10-13 11:05:00,2026-10-13 11:17:46,departed,False,False,13.0
+2026-10-13,VN1272,Vietnam Airlines,2026-10-13 11:05:00,2026-10-13 11:21:09,departed,False,False,16.0
+2026-10-13,CX766,Cathay Pacific,2026-10-13 11:05:00,2026-10-13 11:25:52,departed,False,False,21.0
+2026-10-13,VJ81,VietJet Air,2026-10-13 11:10:00,2026-10-13 11:33:25,departed,False,False,23.0
+2026-10-13,VJ803,VietJet Air,2026-10-13 11:15:00,2026-10-13 11:45:35,departed,False,False,31.0
+2026-10-13,VJ335,VietJet Air,2026-10-13 11:20:00,N/A,unknown,False,False,55.0
+2026-10-13,VN7184,Vietnam Airlines,2026-10-13 11:20:00,2026-10-13 12:00:35,departed,False,False,41.0
+2026-10-13,VJ134,VietJet Air,2026-10-13 11:20:00,2026-10-13 11:42:03,departed,False,False,22.0
+2026-10-13,AE1858,Mandarin Airlines,2026-10-13 11:20:00,2026-10-13 11:31:27,departed,False,False,11.0
+2026-10-13,VN1276,Vietnam Airlines,2026-10-13 11:25:00,2026-10-13 11:36:57,departed,False,False,12.0
+2026-10-13,VN605,Vietnam Airlines,2026-10-13 11:30:00,2026-10-13 11:38:58,departed,False,False,9.0
+2026-10-13,JX712,STARLUX,2026-10-13 11:30:00,2026-10-13 11:58:09,departed,False,False,28.0
+2026-10-13,9G1969,Sun PhuQuoc Airways,2026-10-13 11:35:00,N/A,estimated,False,False,15.0
+2026-10-13,VN6036,Vietnam Airlines,2026-10-13 11:45:00,N/A,canceled,True,False,
+2026-10-13,VU131,Vietravel Airlines,2026-10-13 11:50:00,2026-10-13 12:07:13,departed,False,False,17.0
+2026-10-13,K6825,Air Cambodia,2026-10-13 11:50:00,2026-10-13 12:04:00,departed,False,False,14.0
+2026-10-13,9G962,Sun PhuQuoc Airways,2026-10-13 11:55:00,2026-10-13 12:12:42,departed,False,False,18.0
+2026-10-13,CZ8160,China Southern Airlines,2026-10-13 11:55:00,2026-10-13 15:55:49,departed,False,False,241.0
+2026-10-13,VN212,Vietnam Airlines,2026-10-13 12:00:00,2026-10-13 12:18:16,departed,False,False,18.0
+2026-10-13,VJ136,VietJet Air,2026-10-13 12:00:00,2026-10-13 12:58:15,departed,False,False,58.0
+2026-10-13,QV516,Lao Airlines,2026-10-13 12:00:00,N/A,unknown,False,False,
+2026-10-13,OZ732,Asiana Airlines,2026-10-13 12:05:00,2026-10-13 12:25:10,departed,False,False,20.0
+2026-10-13,VN8089,VASCO,2026-10-13 12:10:00,2026-10-13 12:10:18,departed,False,False,0.0
+2026-10-13,VJ860,VietJet Air,2026-10-13 12:20:00,2026-10-13 12:46:02,departed,False,False,26.0
+2026-10-13,SQ177,Singapore Airlines,2026-10-13 12:20:00,2026-10-13 12:28:31,departed,False,False,9.0
+2026-10-13,9G840,Sun PhuQuoc Airways,2026-10-13 12:25:00,2026-10-13 12:37:47,departed,False,False,13.0
+2026-10-13,MF894,Xiamen Air,2026-10-13 12:25:00,2026-10-13 12:35:13,departed,False,False,10.0
+2026-10-13,VU778,Vietravel Airlines,2026-10-13 12:40:00,2026-10-13 14:24:14,departed,False,False,104.0
+2026-10-13,AK529,AirAsia,2026-10-13 12:40:00,2026-10-13 13:41:31,departed,False,False,62.0
+2026-10-13,BR392,EVA Air,2026-10-13 12:50:00,2026-10-13 13:14:13,departed,False,False,24.0
+2026-10-13,VJ374,VietJet Air,2026-10-13 12:55:00,2026-10-13 14:19:53,departed,False,False,85.0
+2026-10-13,CZ6078,China Southern Airlines,2026-10-13 12:55:00,2026-10-13 14:50:36,departed,False,False,116.0
+2026-10-13,VN7346,Vietnam Airlines,2026-10-13 13:00:00,N/A,canceled,True,False,
+2026-10-13,VU678,Vietravel Airlines,2026-10-13 13:00:00,2026-10-13 14:01:51,departed,False,False,62.0
+2026-10-13,VN248,Vietnam Airlines,2026-10-13 13:00:00,2026-10-13 14:25:58,departed,False,False,86.0
+2026-10-13,VJ636,VietJet Air,2026-10-13 13:00:00,2026-10-13 15:13:22,departed,False,False,133.0
+2026-10-13,VJ138,VietJet Air,2026-10-13 13:05:00,N/A,unknown,False,False,132.0
+2026-10-13,VN1827,Vietnam Airlines,2026-10-13 13:05:00,2026-10-13 13:16:33,departed,False,False,12.0
+2026-10-13,VN1344,Vietnam Airlines,2026-10-13 13:05:00,2026-10-13 13:33:53,departed,False,False,29.0
+2026-10-13,VU550,Vietravel Airlines,2026-10-13 13:15:00,2026-10-13 13:52:39,departed,False,False,38.0
+2026-10-13,VJ807,VietJet Air,2026-10-13 13:15:00,2026-10-13 13:26:53,departed,False,False,12.0
+2026-10-13,VU678,Vietravel Airlines,2026-10-13 13:20:00,N/A,estimated,False,False,42.0
+2026-10-13,VJ210,VietJet Air,2026-10-13 13:25:00,2026-10-13 13:46:51,departed,False,False,22.0
+2026-10-13,VN132,Vietnam Airlines,2026-10-13 13:25:00,2026-10-13 13:39:15,departed,False,False,14.0
+2026-10-13,VJ842,VietJet Air,2026-10-13 13:30:00,2026-10-13 14:00:00,departed,False,False,30.0
+2026-10-13,VJ638,VietJet Air,2026-10-13 13:30:00,2026-10-13 13:58:21,departed,False,False,28.0
+2026-10-13,AK1503,AirAsia (Let’s Fly To Terengganu Livery),2026-10-13 13:30:00,2026-10-13 13:54:52,departed,False,False,25.0
+2026-10-13,0V8063,VASCO,2026-10-13 13:35:00,2026-10-13 13:36:30,departed,False,False,2.0
+2026-10-13,VN6440,Vietnam Airlines,2026-10-13 13:35:00,2026-10-13 13:44:18,departed,False,False,9.0
+2026-10-13,VN594,Vietnam Airlines,2026-10-13 13:35:00,2026-10-13 14:14:32,departed,False,False,40.0
+2026-10-13,VJ252,VietJet Air,2026-10-13 13:40:00,2026-10-13 14:42:15,departed,False,False,62.0
+2026-10-13,VN1394,Vietnam Airlines,2026-10-13 13:50:00,2026-10-13 14:45:09,departed,False,False,55.0
+2026-10-13,VJ278,VietJet Air,2026-10-13 13:55:00,2026-10-13 15:05:07,departed,False,False,70.0
+2026-10-13,KE472,Korean Air,2026-10-13 13:55:00,2026-10-13 15:08:14,departed,False,False,73.0
+2026-10-13,KR730,Cambodia Airways,2026-10-13 14:00:00,N/A,estimated,False,False,9.0
+2026-10-13,VN8097,Vietnam Airlines,2026-10-13 14:00:00,N/A,estimated,False,False,0.0
+2026-10-13,VN214,Vietnam Airlines,2026-10-13 14:00:00,2026-10-13 14:48:10,departed,False,False,48.0
+2026-10-13,VJ214,VietJet Air,2026-10-13 14:00:00,N/A,canceled,True,False,
+2026-10-13,VN7388,Vietnam Airlines,2026-10-13 14:05:00,2026-10-13 14:38:51,departed,False,False,34.0
+2026-10-13,DR5052,Ruili Airlines,2026-10-13 14:05:00,2026-10-13 14:22:23,departed,False,False,17.0
+2026-10-13,BI382,Royal Brunei Airlines,2026-10-13 14:05:00,2026-10-13 14:29:51,departed,False,False,25.0
+2026-10-13,VJ140,VietJet Air,2026-10-13 14:10:00,N/A,unknown,False,False,115.0
+2026-10-13,9G846,Sun PhuQuoc Airways,2026-10-13 14:10:00,2026-10-13 14:28:19,departed,False,False,18.0
+2026-10-13,VN1266,Vietnam Airlines,2026-10-13 14:15:00,2026-10-13 14:36:09,departed,False,False,21.0
+2026-10-13,VJ308,VietJet Air,2026-10-13 14:20:00,N/A,canceled,True,False,
+2026-10-13,VN655,Vietnam Airlines,2026-10-13 14:25:00,2026-10-13 14:58:54,departed,False,False,34.0
+2026-10-13,VJ600,VietJet Air,2026-10-13 14:35:00,2026-10-13 14:53:09,departed,False,False,18.0
+2026-10-13,VJ362,VietJet Air,2026-10-13 14:35:00,2026-10-13 15:23:12,departed,False,False,48.0
+2026-10-13,VJ192,VietJet Air,2026-10-13 14:35:00,2026-10-13 16:22:55,departed,False,False,108.0
+2026-10-13,VN1422,Vietnam Airlines,2026-10-13 14:45:00,2026-10-13 15:02:18,departed,False,False,17.0
+2026-10-13,CZ8466,China Southern Airlines,2026-10-13 14:45:00,2026-10-13 14:55:54,departed,False,False,11.0
+2026-10-13,VJ327,VietJet Air (Vikki Bank Livery),2026-10-13 14:50:00,2026-10-13 15:58:11,departed,False,False,68.0
+2026-10-13,VN250,Vietnam Airlines,2026-10-13 15:00:00,2026-10-13 15:10:29,departed,False,False,10.0
+2026-10-13,VZ971,VietJet Air,2026-10-13 15:05:00,2026-10-13 16:54:37,departed,False,False,110.0
+2026-10-13,VJ640,VietJet Air,2026-10-13 15:10:00,2026-10-13 15:25:25,departed,False,False,15.0
+2026-10-13,0V8093,VASCO,2026-10-13 15:15:00,2026-10-13 15:32:20,departed,False,False,17.0
+2026-10-13,VJ280,VietJet Air,2026-10-13 15:15:00,N/A,canceled,True,False,
+2026-10-13,QR970,Qatar Airways (Oneworld Livery),2026-10-13 15:20:00,2026-10-13 16:27:35,departed,False,False,68.0
+2026-10-13,9G400,Sun PhuQuoc Airways,2026-10-13 15:25:00,2026-10-13 16:15:06,departed,False,False,50.0
+2026-10-13,VN679,Vietnam Airlines,2026-10-13 15:25:00,2026-10-13 16:37:36,departed,False,False,73.0
+2026-10-13,9G854,Sun PhuQuoc Airways,2026-10-13 15:30:00,2026-10-13 16:35:20,departed,False,False,65.0
+2026-10-13,VN8069,VASCO,2026-10-13 15:30:00,2026-10-13 15:45:42,departed,False,False,16.0
+2026-10-13,VN1829,Vietnam Airlines,2026-10-13 15:30:00,2026-10-13 15:40:17,departed,False,False,10.0
+2026-10-13,VN134,Vietnam Airlines,2026-10-13 15:30:00,N/A,canceled,True,False,
+2026-10-13,VN1374,Vietnam Airlines,2026-10-13 15:35:00,2026-10-13 16:07:51,departed,False,False,33.0
+2026-10-13,TR553,Scoot,2026-10-13 15:40:00,2026-10-13 18:34:32,departed,False,False,175.0
+2026-10-13,BR396,EVA Air,2026-10-13 15:45:00,2026-10-13 16:02:56,departed,False,False,18.0
+2026-10-13,SQ183,Singapore Airlines,2026-10-13 15:50:00,2026-10-13 16:39:48,departed,False,False,50.0
+2026-10-13,CZ374,China Southern Airlines,2026-10-13 15:50:00,2026-10-13 16:25:26,departed,False,False,35.0
+2026-10-13,VN1468,Vietnam Airlines,2026-10-13 15:55:00,2026-10-13 16:44:50,departed,False,False,50.0
+2026-10-13,VJ144,VietJet Air,2026-10-13 15:55:00,2026-10-13 17:11:38,departed,False,False,77.0
+2026-10-13,FD655,AirAsia,2026-10-13 15:55:00,2026-10-13 17:22:18,departed,False,False,87.0
+2026-10-13,VN621,Vietnam Airlines,2026-10-13 16:00:00,2026-10-13 16:12:56,departed,False,False,13.0
+2026-10-13,VN216,Vietnam Airlines,2026-10-13 16:00:00,2026-10-13 16:30:03,departed,False,False,30.0
+2026-10-13,VN136,Air Cambodia,2026-10-13 16:00:00,2026-10-13 17:02:34,departed,False,False,63.0
+2026-10-13,VN6160,Vietnam Airlines,2026-10-13 16:05:00,2026-10-13 16:10:33,departed,False,False,6.0
+2026-10-13,VN920,Vietnam Airlines,2026-10-13 16:05:00,2026-10-13 16:32:17,departed,False,False,27.0
+2026-10-13,AK523,AirAsia (Persona 5 Royal Livery),2026-10-13 16:10:00,2026-10-13 17:04:53,departed,False,False,55.0
+2026-10-13,9G1971,Sun PhuQuoc Airways,2026-10-13 16:15:00,2026-10-13 16:51:46,departed,False,False,37.0
+2026-10-13,VJ148,VietJet Air,2026-10-13 16:15:00,2026-10-13 16:47:28,departed,False,False,32.0
+2026-10-13,VJ254,VietJet Air,2026-10-13 16:20:00,2026-10-13 17:25:03,departed,False,False,65.0
+2026-10-13,VJ1831,VietJet Air,2026-10-13 16:25:00,2026-10-13 16:59:34,departed,False,False,35.0
+2026-10-13,VN570,Vietnam Airlines,2026-10-13 16:30:00,2026-10-13 16:42:25,departed,False,False,12.0
+2026-10-13,VJ820,VietJet Air,2026-10-13 16:30:00,2026-10-13 17:06:50,departed,False,False,37.0
+2026-10-13,9G976,Sun PhuQuoc Airways,2026-10-13 16:35:00,2026-10-13 17:20:08,departed,False,False,45.0
+2026-10-13,VJ384,VietJet Air,2026-10-13 16:35:00,2026-10-13 16:57:10,departed,False,False,22.0
+2026-10-13,VN252,Vietnam Airlines,2026-10-13 16:40:00,N/A,estimated,False,False,0.0
+2026-10-13,VJ394,VietJet Air,2026-10-13 16:40:00,2026-10-13 17:17:20,departed,False,False,37.0
+2026-10-13,VN7264,Vietnam Airlines,2026-10-13 16:45:00,N/A,canceled,True,False,
+2026-10-13,VN140,Vietnam Airlines,2026-10-13 16:45:00,N/A,canceled,True,False,
+2026-10-13,VJ146,VietJet Air,2026-10-13 16:45:00,2026-10-13 18:46:53,departed,False,False,122.0
+2026-10-13,0V8440,VASCO,2026-10-13 16:50:00,2026-10-13 17:09:35,departed,False,False,20.0
+2026-10-13,VN607,Vietnam Airlines (SkyTeam Livery),2026-10-13 16:50:00,2026-10-13 17:14:21,departed,False,False,24.0
+2026-10-13,VN657,Vietnam Airlines,2026-10-13 17:00:00,2026-10-13 17:40:36,departed,False,False,41.0
+2026-10-13,VN254,Vietnam Airlines,2026-10-13 17:00:00,2026-10-13 17:33:07,departed,False,False,33.0
+2026-10-13,VU780,Vietravel Airlines,2026-10-13 17:10:00,2026-10-13 17:35:22,departed,False,False,25.0
+2026-10-13,VJ152,VietJet Air,2026-10-13 17:10:00,2026-10-13 17:46:24,departed,False,False,36.0
+2026-10-13,VN7024,Vietnam Airlines,2026-10-13 17:15:00,N/A,canceled,True,False,
+2026-10-13,VN813,Vietnam Airlines,2026-10-13 17:15:00,2026-10-13 17:28:02,departed,False,False,13.0
+2026-10-13,VJ805,VietJet Air,2026-10-13 17:15:00,2026-10-13 17:38:07,departed,False,False,23.0
+2026-10-13,VJ331,VietJet Air,2026-10-13 17:20:00,2026-10-13 17:58:27,departed,False,False,38.0
+2026-10-13,9G978,Sun PhuQuoc Airways,2026-10-13 17:30:00,2026-10-13 18:05:41,departed,False,False,36.0
+2026-10-13,VN1386,Vietnam Airlines,2026-10-13 17:30:00,2026-10-13 17:43:53,departed,False,False,14.0
+2026-10-13,CI784,China Airlines,2026-10-13 17:30:00,2026-10-13 17:51:11,departed,False,False,21.0
+2026-10-13,VU1102,Vietravel Airlines,2026-10-13 17:35:00,2026-10-13 18:39:40,departed,False,False,65.0
+2026-10-13,VJ282,VietJet Air,2026-10-13 17:40:00,2026-10-13 18:36:55,departed,False,False,57.0
+2026-10-13,VJ262,VietJet Air,2026-10-13 17:40:00,2026-10-13 18:01:18,departed,False,False,21.0
+2026-10-13,VJ150,VietJet Air,2026-10-13 17:40:00,2026-10-13 17:48:44,departed,False,False,9.0
+2026-10-13,VN580,Vietnam Airlines,2026-10-13 17:50:00,2026-10-13 18:11:00,departed,False,False,21.0
+2026-10-13,VN1186,Vietnam Airlines,2026-10-13 17:55:00,2026-10-13 18:03:35,departed,False,False,9.0
+2026-10-13,VJ352,VietJet Air,2026-10-13 17:55:00,N/A,canceled,True,False,
+2026-10-13,9G1522,Sun PhuQuoc Airways,2026-10-13 18:00:00,2026-10-13 18:52:45,departed,False,False,53.0
+2026-10-13,9G860,Sun PhuQuoc Airways,2026-10-13 18:00:00,2026-10-13 18:17:57,departed,False,False,18.0
+2026-10-13,VN218,Vietnam Airlines,2026-10-13 18:00:00,2026-10-13 18:12:52,departed,False,False,13.0
+2026-10-13,VJ312,VietJet Air (Vikki Bank Livery),2026-10-13 18:00:00,2026-10-13 19:38:14,departed,False,False,98.0
+2026-10-13,D0621,DHL,2026-10-13 18:05:00,2026-10-13 18:15:04,departed,False,False,10.0
+2026-10-13,VJ3948,VietJet Air,2026-10-13 18:05:00,2026-10-13 18:56:50,departed,False,False,52.0
+2026-10-13,JX714,STARLUX,2026-10-13 18:05:00,2026-10-13 18:29:53,departed,False,False,25.0
+2026-10-13,VU303,Vietravel Airlines,2026-10-13 18:15:00,N/A,unknown,False,False,
+2026-10-13,VN1414,Vietnam Airlines,2026-10-13 18:15:00,2026-10-13 19:00:44,departed,False,False,46.0
+2026-10-13,VJ1875,VietJet Air,2026-10-13 18:15:00,2026-10-13 19:13:03,departed,False,False,58.0
+2026-10-13,TR517,Scoot,2026-10-13 18:15:00,2026-10-13 18:44:52,departed,False,False,30.0
+2026-10-13,VU684,Vietravel Airlines,2026-10-13 18:20:00,N/A,unknown,False,False,
+2026-10-13,VN609,Vietnam Airlines,2026-10-13 18:20:00,2026-10-13 18:41:41,departed,False,False,22.0
+2026-10-13,CX764,Cathay Pacific,2026-10-13 18:20:00,2026-10-13 19:15:27,departed,False,False,55.0
+2026-10-13,9G1985,Sun PhuQuoc Airways,2026-10-13 18:25:00,2026-10-13 19:09:50,departed,False,False,45.0
+2026-10-13,VJ376,VietJet Air,2026-10-13 18:25:00,2026-10-13 18:31:56,departed,False,False,7.0
+2026-10-13,VJ642,VietJet Air,2026-10-13 18:30:00,2026-10-13 19:51:44,departed,False,False,82.0
+2026-10-13,K6819,Air Cambodia,2026-10-13 18:30:00,2026-10-13 18:58:18,departed,False,False,28.0
+2026-10-13,VN977,Vietnam Airlines,2026-10-13 18:35:00,2026-10-13 18:54:35,departed,False,False,20.0
+2026-10-13,VJ216,VietJet Air,2026-10-13 18:40:00,2026-10-13 19:49:22,departed,False,False,69.0
+2026-10-13,9G868,Vietnam Airlines,2026-10-13 18:45:00,2026-10-13 19:29:58,departed,False,False,45.0
+2026-10-13,VJ154,VietJet Air,2026-10-13 18:45:00,2026-10-13 19:03:54,departed,False,False,19.0
+2026-10-13,9C7348,Spring Airlines,2026-10-13 18:55:00,2026-10-13 19:32:55,departed,False,False,38.0
+2026-10-13,VN1268,Vietnam Airlines,2026-10-13 18:55:00,2026-10-13 19:18:18,departed,False,False,23.0
+2026-10-13,VN142,Vietnam Airlines,2026-10-13 18:55:00,2026-10-13 19:06:49,departed,False,False,12.0
+2026-10-13,9G984,Sun PhuQuoc Airways,2026-10-13 19:00:00,2026-10-13 19:21:14,departed,False,False,21.0
+2026-10-13,VN258,Vietnam Airlines,2026-10-13 19:00:00,2026-10-13 19:24:03,departed,False,False,24.0
+2026-10-13,VN6150,Vietnam Airlines,2026-10-13 19:10:00,2026-10-13 19:27:15,departed,False,False,17.0
+2026-10-13,MU9634,China Eastern Airlines,2026-10-13 19:10:00,2026-10-13 19:35:40,departed,False,False,26.0
+2026-10-13,VJ644,VietJet Air,2026-10-13 19:20:00,2026-10-13 19:54:36,departed,False,False,35.0
+2026-10-13,MH767,Malaysia Airlines,2026-10-13 19:25:00,2026-10-13 19:40:45,departed,False,False,16.0
+2026-10-13,VN146,Vietnam Airlines,2026-10-13 19:35:00,2026-10-13 19:43:54,departed,False,False,9.0
+2026-10-13,VJ883,VietJet Air,2026-10-13 19:40:00,2026-10-13 20:47:22,departed,False,False,67.0
+2026-10-13,SQ185,Singapore Airlines,2026-10-13 19:40:00,2026-10-13 19:57:11,departed,False,False,17.0
+2026-10-13,VU1390,Vietravel Airlines,2026-10-13 19:45:00,N/A,unknown,False,False,
+2026-10-13,VJ1803,VietJet Air,2026-10-13 19:45:00,2026-10-13 20:19:57,departed,False,False,35.0
+2026-10-13,VJ1606,VietJet Air,2026-10-13 19:50:00,2026-10-13 20:06:40,departed,False,False,17.0
+2026-10-13,VJ85,VietJet Air (Coca-Cola Livery),2026-10-13 19:55:00,2026-10-13 20:25:24,departed,False,False,30.0
+2026-10-13,VN220,Vietnam Airlines,2026-10-13 20:00:00,2026-10-13 20:15:45,departed,False,False,16.0
+2026-10-13,VJ3900,VietJet Air,2026-10-13 20:00:00,2026-10-13 20:23:11,departed,False,False,23.0
+2026-10-13,QR971,Qatar Airways (Oneworld Livery),2026-10-13 20:00:00,2026-10-13 20:36:41,departed,False,False,37.0
+2026-10-13,VN1376,Vietnam Airlines,2026-10-13 20:10:00,N/A,unknown,False,False,
+2026-10-13,TG557,Thai Airways,2026-10-13 20:10:00,2026-10-13 20:27:37,departed,False,False,18.0
+2026-10-13,VN256,Vietnam Airlines,2026-10-13 20:30:00,2026-10-13 20:43:48,departed,False,False,14.0
+2026-10-13,VJ160,VietJet Air,2026-10-13 20:30:00,2026-10-13 21:16:07,departed,False,False,46.0
+2026-10-13,8M453,Myanmar Airways International,2026-10-13 20:30:00,2026-10-13 20:41:09,departed,False,False,11.0
+2026-10-13,VJ1156,VietJet Air,2026-10-13 20:40:00,2026-10-13 21:42:04,departed,False,False,62.0
+2026-10-13,VN773,Vietnam Airlines,2026-10-13 20:45:00,2026-10-13 21:18:48,departed,False,False,34.0
+2026-10-13,AI2389,Air India,2026-10-13 20:55:00,2026-10-13 20:58:31,departed,False,False,4.0
+2026-10-13,VN260,Vietnam Airlines,2026-10-13 21:00:00,N/A,estimated,False,False,0.0
+2026-10-13,VU684,Vietravel Airlines,2026-10-13 21:10:00,N/A,unknown,False,False,
+2026-10-13,VJ652,VietJet Air,2026-10-13 21:10:00,2026-10-13 21:21:11,departed,False,False,11.0
+2026-10-13,VN781,Vietnam Airlines,2026-10-13 21:25:00,2026-10-13 21:48:58,departed,False,False,24.0
+2026-10-13,FD659,AirAsia,2026-10-13 21:35:00,2026-10-13 21:57:23,departed,False,False,22.0
+2026-10-13,VJ3908,VietJet Air,2026-10-13 21:45:00,2026-10-13 22:43:09,departed,False,False,58.0
+2026-10-13,LD562,DHL,2026-10-13 21:50:00,2026-10-13 22:00:12,departed,False,False,10.0
+2026-10-13,9G882,Sun PhuQuoc Airways,2026-10-13 21:55:00,2026-10-13 22:11:03,departed,False,False,16.0
+2026-10-13,VN224,Vietnam Airlines,2026-10-13 22:00:00,2026-10-13 22:08:15,departed,False,False,8.0
+2026-10-13,TK163,Turkish Airlines,2026-10-13 22:05:00,2026-10-13 22:30:44,departed,False,False,26.0
+2026-10-13,AK525,AirAsia,2026-10-13 22:05:00,2026-10-13 22:16:55,departed,False,False,12.0
+2026-10-13,VU8602,Vietravel Airlines,2026-10-13 22:10:00,2026-10-13 22:33:26,departed,False,False,23.0
+2026-10-13,VJ1128,VietJet Air,2026-10-13 22:15:00,2026-10-13 22:48:41,departed,False,False,34.0
+2026-10-13,SC2420,Shandong Airlines,2026-10-13 22:15:00,N/A,estimated,False,False,0.0
+2026-10-13,VJ858,VietJet Air,2026-10-13 22:25:00,2026-10-13 22:56:33,departed,False,False,32.0
+2026-10-13,JQ62,Jetstar,2026-10-13 22:40:00,2026-10-13 23:21:48,departed,False,False,42.0
+2026-10-13,VU794,Vietravel Airlines,2026-10-13 22:50:00,N/A,unknown,False,False,
+2026-10-13,VN11,Vietnam Airlines,2026-10-13 22:50:00,2026-10-13 23:11:36,departed,False,False,22.0
+2026-10-13,VN270,Vietnam Airlines,2026-10-13 23:00:00,2026-10-13 23:08:05,departed,False,False,8.0
+2026-10-13,VN31,Vietnam Airlines,2026-10-13 23:00:00,2026-10-13 23:27:19,departed,False,False,27.0
+2026-10-13,VJ168,VietJet Air,2026-10-13 23:00:00,2026-10-13 23:25:19,departed,False,False,25.0
+2026-10-13,9G886,Sun PhuQuoc Airways,2026-10-13 23:15:00,2026-10-13 23:34:37,departed,False,False,20.0
+2026-10-13,NH892,All Nippon Airways,2026-10-13 23:15:00,2026-10-13 23:19:34,departed,False,False,5.0
+2026-10-13,CA408,Air China,2026-10-13 23:20:00,2026-10-13 23:30:50,departed,False,False,11.0
+2026-10-13,VN648,Vietnam Airlines,2026-10-13 23:25:00,2026-10-13 23:40:45,departed,False,False,16.0
+2026-10-13,JL70,Japan Airlines,2026-10-13 23:30:00,2026-10-14 00:15:42,departed,False,False,46.0
+2026-10-13,VJ822,VietJet Air,2026-10-13 23:35:00,2026-10-13 23:54:51,departed,False,False,20.0
+2026-10-13,KE476,Korean Air,2026-10-13 23:35:00,2026-10-14 00:55:04,departed,False,False,80.0
+2026-10-13,VN408,Vietnam Airlines,2026-10-13 23:45:00,2026-10-14 00:05:24,departed,False,False,20.0
+2026-10-13,EK393,Emirates,2026-10-13 23:50:00,2026-10-13 23:57:22,departed,False,False,7.0
+2026-10-14,VN342,Vietnam Airlines,2026-10-14 00:01:00,2026-10-14 00:35:54,departed,False,False,35.0
+2026-10-14,VN320,Vietnam Airlines,2026-10-14 00:10:00,2026-10-14 00:25:31,departed,False,False,16.0
+2026-10-14,OZ736,Asiana Airlines,2026-10-14 00:10:00,2026-10-14 01:19:34,departed,False,False,70.0
+2026-10-14,VN306,Vietnam Airlines,2026-10-14 00:20:00,2026-10-14 00:44:19,departed,False,False,24.0
+2026-10-14,VN350,Vietnam Airlines,2026-10-14 00:35:00,2026-10-14 01:04:53,departed,False,False,30.0
+2026-10-14,VN516,Vietnam Airlines,2026-10-14 00:35:00,2026-10-14 01:32:40,departed,False,False,58.0
+2026-10-14,HT3824,Air Horizont,2026-10-14 00:50:00,N/A,estimated,False,False,0.0
+2026-10-14,5J752,Cebu Pacific,2026-10-14 00:50:00,2026-10-14 01:34:41,departed,False,False,45.0
+2026-10-14,VJ828,VietJet Air,2026-10-14 01:00:00,2026-10-14 01:25:25,departed,False,False,25.0
+2026-10-14,VN422,Vietnam Airlines,2026-10-14 01:10:00,2026-10-14 02:00:41,departed,False,False,51.0
+2026-10-14,HO1328,Juneyao Air (Yudo Auto Livery),2026-10-14 01:20:00,2026-10-14 01:17:21,departed,False,False,-3.0
+2026-10-14,BR382,EVA Air,2026-10-14 01:50:00,2026-10-14 02:29:31,departed,False,False,40.0
+2026-10-14,SC4646,Shandong Airlines,2026-10-14 02:05:00,2026-10-14 02:03:53,departed,False,False,-1.0
+2026-10-14,MU282,China Eastern Airlines,2026-10-14 02:35:00,2026-10-14 03:04:14,departed,False,False,29.0
+2026-10-14,CZ6090,China Southern Airlines,2026-10-14 02:35:00,2026-10-14 02:45:50,departed,False,False,11.0
+2026-10-14,VJ862,VietJet Air,2026-10-14 02:35:00,2026-10-14 02:48:57,departed,False,False,14.0
+2026-10-14,ZH118,Shenzhen Airlines,2026-10-14 02:50:00,2026-10-14 03:01:24,departed,False,False,11.0
+2026-10-14,MU870,China Eastern Airlines,2026-10-14 03:10:00,2026-10-14 03:10:10,departed,False,False,0.0
+2026-10-14,T5652,Turkmenistan Airlines,2026-10-14 03:30:00,2026-10-14 03:26:51,departed,False,False,-3.0
+2026-10-14,VN6002,Vietnam Airlines,2026-10-14 05:00:00,2026-10-14 05:18:08,departed,False,False,18.0
+2026-10-14,VJ224,VietJet Air,2026-10-14 05:00:00,2026-10-14 05:03:20,departed,False,False,3.0
+2026-10-14,VJ120,VietJet Air,2026-10-14 05:00:00,2026-10-14 05:14:29,departed,False,False,14.0
+2026-10-14,CA904,Air China,2026-10-14 05:10:00,2026-10-14 05:10:54,departed,False,False,1.0
+2026-10-14,9G802,Sun PhuQuoc Airways,2026-10-14 05:15:00,2026-10-14 05:25:45,departed,False,False,11.0
+2026-10-14,VJ1372,VietJet Air,2026-10-14 05:20:00,N/A,canceled,True,False,
+2026-10-14,VJ270,VietJet Air,2026-10-14 05:30:00,2026-10-14 05:48:15,departed,False,False,18.0
+2026-10-14,VJ1382,VietJet Air,2026-10-14 05:35:00,2026-10-14 05:50:43,departed,False,False,16.0
+2026-10-14,VU750,Vietravel Airlines,2026-10-14 05:35:00,2026-10-14 05:44:12,departed,False,False,9.0
+2026-10-14,VN1366,Vietnam Airlines,2026-10-14 05:45:00,2026-10-14 06:03:15,departed,False,False,18.0
+2026-10-14,VN106,Vietnam Airlines,2026-10-14 05:45:00,2026-10-14 05:57:19,departed,False,False,12.0
+2026-10-14,9G804,Sun PhuQuoc Airways,2026-10-14 05:45:00,2026-10-14 05:52:53,departed,False,False,8.0
+2026-10-14,VN1380,Vietnam Airlines,2026-10-14 05:50:00,N/A,canceled,True,False,
+2026-10-14,VU1430,Vietravel Airlines,2026-10-14 06:00:00,N/A,unknown,False,False,
+2026-10-14,VN1392,Vietnam Airlines,2026-10-14 06:00:00,2026-10-14 06:10:09,departed,False,False,10.0
+2026-10-14,VN206,Vietnam Airlines,2026-10-14 06:00:00,2026-10-14 06:16:37,departed,False,False,17.0
+2026-10-14,VN7276,Vietnam Airlines,2026-10-14 06:05:00,2026-10-14 06:14:10,departed,False,False,9.0
+2026-10-14,VJ124,VietJet Air,2026-10-14 06:05:00,2026-10-14 06:07:45,departed,False,False,3.0
+2026-10-14,VN8081,VASCO,2026-10-14 06:20:00,2026-10-14 06:26:51,departed,False,False,7.0
+2026-10-14,VN1464,Vietnam Airlines (SkyTeam Livery),2026-10-14 06:20:00,2026-10-14 06:29:37,departed,False,False,10.0
+2026-10-14,VN7204,Vietnam Airlines,2026-10-14 06:25:00,2026-10-14 06:39:33,departed,False,False,15.0
+2026-10-14,VJ350,VietJet Air,2026-10-14 06:30:00,2026-10-14 06:46:47,departed,False,False,17.0
+2026-10-14,9G808,Sun PhuQuoc Airways,2026-10-14 06:30:00,2026-10-14 06:36:40,departed,False,False,7.0
+2026-10-14,VN6420,Vietnam Airlines,2026-10-14 06:40:00,2026-10-14 06:54:39,departed,False,False,15.0
+2026-10-14,VJ392,VietJet Air,2026-10-14 06:40:00,2026-10-14 06:44:39,departed,False,False,5.0
+2026-10-14,0V8059,VASCO,2026-10-14 06:40:00,2026-10-14 06:49:46,departed,False,False,10.0
+2026-10-14,VN110,Vietnam Airlines,2026-10-14 06:45:00,2026-10-14 06:56:27,departed,False,False,11.0
+2026-10-14,VJ1242,VietJet Air,2026-10-14 06:50:00,2026-10-14 07:14:21,departed,False,False,24.0
+2026-10-14,VJ122,VietJet Air,2026-10-14 06:55:00,2026-10-14 07:12:38,departed,False,False,18.0
+2026-10-14,VN1404,Vietnam Airlines,2026-10-14 06:55:00,2026-10-14 07:08:32,departed,False,False,14.0
+2026-10-14,VN6170,Vietnam Airlines,2026-10-14 07:00:00,2026-10-14 07:19:59,departed,False,False,20.0
+2026-10-14,UA153,United Airlines,2026-10-14 07:00:00,2026-10-14 07:05:55,departed,False,False,6.0
+2026-10-14,NH834,All Nippon Airways,2026-10-14 07:00:00,2026-10-14 07:40:11,departed,False,False,40.0
+2026-10-14,VU774,Vietravel Airlines,2026-10-14 07:00:00,2026-10-14 07:31:10,departed,False,False,31.0
+2026-10-14,VN240,Vietnam Airlines,2026-10-14 07:00:00,2026-10-14 07:33:20,departed,False,False,33.0
+2026-10-14,VN1340,Vietnam Airlines,2026-10-14 07:05:00,2026-10-14 07:16:15,departed,False,False,11.0
+2026-10-14,9G1955,Sun PhuQuoc Airways,2026-10-14 07:05:00,2026-10-14 07:23:17,departed,False,False,18.0
+2026-10-14,9G1500,Vietnam Airlines,2026-10-14 07:05:00,N/A,estimated,False,False,22.0
+2026-10-14,9G956,Sun PhuQuoc Airways,2026-10-14 07:05:00,2026-10-14 07:17:52,departed,False,False,13.0
+2026-10-14,9G810,Sun PhuQuoc Airways,2026-10-14 07:05:00,2026-10-14 07:26:04,departed,False,False,21.0
+2026-10-14,CX786,Cathay Pacific,2026-10-14 07:10:00,2026-10-14 07:35:31,departed,False,False,26.0
+2026-10-14,VJ813,VietJet Air,2026-10-14 07:10:00,2026-10-14 07:47:07,departed,False,False,37.0
+2026-10-14,VN524,Vietnam Airlines,2026-10-14 07:20:00,2026-10-14 07:44:49,departed,False,False,25.0
+2026-10-14,K6809,Air Cambodia,2026-10-14 07:20:00,2026-10-14 07:37:12,departed,False,False,17.0
+2026-10-14,VN1660,Air Cambodia,2026-10-14 07:25:00,2026-10-14 07:43:19,departed,False,False,18.0
+2026-10-14,VJ126,VietJet Air,2026-10-14 07:30:00,2026-10-14 07:57:37,departed,False,False,28.0
+2026-10-14,KE480,Korean Air,2026-10-14 07:30:00,2026-10-14 07:54:38,departed,False,False,25.0
+2026-10-14,VJ632,VietJet Air,2026-10-14 07:30:00,2026-10-14 07:59:11,departed,False,False,29.0
+2026-10-14,VN1176,Vietnam Airlines,2026-10-14 07:35:00,2026-10-14 07:48:42,departed,False,False,14.0
+2026-10-14,VN582,Vietnam Airlines,2026-10-14 07:45:00,2026-10-14 08:01:33,departed,False,False,17.0
+2026-10-14,3U3904,Sichuan Airlines,2026-10-14 07:50:00,2026-10-14 08:16:46,departed,False,False,27.0
+2026-10-14,VJ339,VietJet Air,2026-10-14 07:50:00,2026-10-14 08:21:15,departed,False,False,31.0
+2026-10-14,VJ849,VietJet Air,2026-10-14 07:55:00,2026-10-14 08:12:20,departed,False,False,17.0
+2026-10-14,K6839,Air Cambodia,2026-10-14 07:55:00,2026-10-14 08:02:53,departed,False,False,8.0
+2026-10-14,VN208,Vietnam Airlines,2026-10-14 08:00:00,2026-10-14 08:10:45,departed,False,False,11.0
+2026-10-14,VN112,Vietnam Airlines,2026-10-14 08:00:00,2026-10-14 08:08:36,departed,False,False,9.0
+2026-10-14,VJ212,VietJet Air,2026-10-14 08:00:00,2026-10-14 08:19:00,departed,False,False,19.0
+2026-10-14,CZ368,China Southern Airlines,2026-10-14 08:00:00,2026-10-14 08:05:57,departed,False,False,6.0
+2026-10-14,VU1120,Vietravel Airlines,2026-10-14 08:05:00,2026-10-14 08:22:54,departed,False,False,18.0
+2026-10-14,VN1823,Vietnam Airlines,2026-10-14 08:05:00,2026-10-14 08:13:54,departed,False,False,9.0
+2026-10-14,JL750,Japan Airlines,2026-10-14 08:20:00,2026-10-14 08:29:31,departed,False,False,10.0
+2026-10-14,VJ382,VietJet Air,2026-10-14 08:25:00,2026-10-14 08:35:20,departed,False,False,10.0
+2026-10-14,VN8055,Vietnam Airlines,2026-10-14 08:30:00,N/A,estimated,False,False,0.0
+2026-10-14,AK1491,AirAsia,2026-10-14 08:30:00,2026-10-14 08:39:16,departed,False,False,9.0
+2026-10-14,K6813,Air Cambodia,2026-10-14 08:30:00,2026-10-14 08:42:39,departed,False,False,13.0
+2026-10-14,VJ801,VietJet Air,2026-10-14 08:35:00,2026-10-14 08:56:37,departed,False,False,22.0
+2026-10-14,AK521,AirAsia (Longjack Orang Kampung Livery),2026-10-14 08:35:00,2026-10-14 08:45:07,departed,False,False,10.0
+2026-10-14,VN601,Vietnam Airlines,2026-10-14 08:40:00,2026-10-14 08:46:50,departed,False,False,7.0
+2026-10-14,VJ130,VietJet Air,2026-10-14 08:40:00,2026-10-14 08:53:46,departed,False,False,14.0
+2026-10-14,VJ893,VietJet Air,2026-10-14 08:45:00,2026-10-14 09:15:25,departed,False,False,30.0
+2026-10-14,9G820,Sun PhuQuoc Airways,2026-10-14 08:45:00,2026-10-14 08:51:34,departed,False,False,7.0
+2026-10-14,VJ809,VietJet Air,2026-10-14 08:50:00,2026-10-14 09:37:36,departed,False,False,48.0
+2026-10-14,VJ304,VietJet Air,2026-10-14 08:50:00,2026-10-14 09:26:11,departed,False,False,36.0
+2026-10-14,VU672,Vietravel Airlines,2026-10-14 08:50:00,2026-10-14 08:59:18,departed,False,False,9.0
+2026-10-14,VJ321,VietJet Air,2026-10-14 08:50:00,2026-10-14 09:18:05,departed,False,False,28.0
+2026-10-14,9G1560,Sun PhuQuoc Airways,2026-10-14 08:55:00,2026-10-14 09:05:01,departed,False,False,10.0
+2026-10-14,VJ630,VietJet Air,2026-10-14 09:00:00,2026-10-14 09:42:26,departed,False,False,42.0
+2026-10-14,VN244,Vietnam Airlines,2026-10-14 09:00:00,2026-10-14 11:38:58,departed,False,False,159.0
+2026-10-14,VJ811,VietJet Air (Vikki Bank Livery),2026-10-14 09:00:00,2026-10-14 09:23:14,departed,False,False,23.0
+2026-10-14,VJ272,VietJet Air,2026-10-14 09:00:00,2026-10-14 09:35:56,departed,False,False,36.0
+2026-10-14,VN402,Vietnam Airlines,2026-10-14 09:05:00,2026-10-14 09:33:44,departed,False,False,29.0
+2026-10-14,VN1342,Vietnam Airlines,2026-10-14 09:05:00,2026-10-14 09:13:09,departed,False,False,8.0
+2026-10-14,VN118,Vietnam Airlines,2026-10-14 09:05:00,2026-10-14 09:28:46,departed,False,False,24.0
+2026-10-14,0V8085,VASCO,2026-10-14 09:10:00,2026-10-14 09:31:28,departed,False,False,21.0
+2026-10-14,VN651,Vietnam Airlines,2026-10-14 09:10:00,2026-10-14 09:21:05,departed,False,False,11.0
+2026-10-14,VJ337,VietJet Air,2026-10-14 09:10:00,2026-10-14 09:43:54,departed,False,False,34.0
+2026-10-14,TR503,Scoot,2026-10-14 09:15:00,2026-10-14 09:40:36,departed,False,False,26.0
+2026-10-14,AF253,Air France,2026-10-14 09:25:00,2026-10-14 09:52:43,departed,False,False,28.0
+2026-10-14,9G824,Sun PhuQuoc Airways,2026-10-14 09:25:00,2026-10-14 09:48:13,departed,False,False,23.0
+2026-10-14,VN8067,VASCO,2026-10-14 09:30:00,2026-10-14 09:45:27,departed,False,False,15.0
+2026-10-14,VJ825,VietJet Air,2026-10-14 09:30:00,2026-10-14 09:54:59,departed,False,False,25.0
+2026-10-14,VU256,Vietravel Airlines,2026-10-14 09:35:00,N/A,unknown,False,False,
+2026-10-14,VJ855,VietJet Air,2026-10-14 09:35:00,2026-10-14 09:58:46,departed,False,False,24.0
+2026-10-14,VJ128,VietJet Air,2026-10-14 09:40:00,2026-10-14 10:05:13,departed,False,False,25.0
+2026-10-14,9G1963,Sun PhuQuoc Airways,2026-10-14 09:40:00,2026-10-14 09:49:54,departed,False,False,10.0
+2026-10-14,FD657,AirAsia,2026-10-14 09:45:00,2026-10-14 09:56:49,departed,False,False,12.0
+2026-10-14,VN631,Vietnam Airlines,2026-10-14 09:50:00,2026-10-14 10:18:28,departed,False,False,28.0
+2026-10-14,PR592,Philippine Airlines,2026-10-14 09:55:00,2026-10-14 10:12:29,departed,False,False,17.0
+2026-10-14,VJ274,VietJet Air,2026-10-14 10:00:00,2026-10-14 10:35:37,departed,False,False,36.0
+2026-10-14,VN210,Vietnam Airlines,2026-10-14 10:00:00,2026-10-14 10:09:56,departed,False,False,10.0
+2026-10-14,VN122,Vietnam Airlines,2026-10-14 10:00:00,2026-10-14 10:15:44,departed,False,False,16.0
+2026-10-14,TG551,Thai Airways,2026-10-14 10:05:00,2026-10-14 10:21:26,departed,False,False,16.0
+2026-10-14,VN6200,Vietnam Airlines,2026-10-14 10:05:00,N/A,canceled,True,False,
+2026-10-14,VN641,Vietnam Airlines,2026-10-14 10:10:00,2026-10-14 10:33:43,departed,False,False,24.0
+2026-10-14,VN502,Vietnam Airlines,2026-10-14 10:10:00,2026-10-14 10:30:17,departed,False,False,20.0
+2026-10-14,VJ852,VietJet Air,2026-10-14 10:10:00,2026-10-14 10:40:25,departed,False,False,30.0
+2026-10-14,VJ83,VietJet Air,2026-10-14 10:15:00,2026-10-14 10:37:36,departed,False,False,23.0
+2026-10-14,VN1382,Vietnam Airlines,2026-10-14 10:20:00,2026-10-14 11:47:23,departed,False,False,87.0
+2026-10-14,VN1272,Vietnam Airlines (SkyTeam Livery),2026-10-14 10:25:00,2026-10-14 10:42:50,departed,False,False,18.0
+2026-10-14,VJ1813,VietJet Air,2026-10-14 10:25:00,2026-10-14 10:51:26,departed,False,False,26.0
+2026-10-14,VN1825,Vietnam Airlines,2026-10-14 10:25:00,2026-10-14 10:45:28,departed,False,False,20.0
+2026-10-14,VJ306,VietJet Air,2026-10-14 10:30:00,2026-10-14 10:57:02,departed,False,False,27.0
+2026-10-14,9G1965,Sun PhuQuoc Airways,2026-10-14 10:35:00,2026-10-14 10:48:38,departed,False,False,14.0
+2026-10-14,VN1264,Vietnam Airlines,2026-10-14 10:40:00,2026-10-14 10:53:58,departed,False,False,14.0
+2026-10-14,VJ634,VietJet Air,2026-10-14 10:45:00,2026-10-14 11:20:28,departed,False,False,35.0
+2026-10-14,VJ244,VietJet Air,2026-10-14 10:45:00,2026-10-14 11:18:00,departed,False,False,33.0
+2026-10-14,VJ1602,VietJet Air,2026-10-14 10:50:00,2026-10-14 12:08:27,departed,False,False,78.0
+2026-10-14,CI782,China Airlines,2026-10-14 10:50:00,2026-10-14 11:29:34,departed,False,False,40.0
+2026-10-14,VN246,Vietnam Airlines,2026-10-14 11:00:00,2026-10-14 11:09:56,departed,False,False,10.0
+2026-10-14,VN126,Air Cambodia,2026-10-14 11:00:00,2026-10-14 11:25:57,departed,False,False,26.0
+2026-10-14,MH751,Malaysia Airlines,2026-10-14 11:00:00,2026-10-14 11:33:20,departed,False,False,33.0
+2026-10-14,9G832,Sun PhuQuoc Airways,2026-10-14 11:00:00,2026-10-14 11:13:03,departed,False,False,13.0
+2026-10-14,VN1370,Vietnam Airlines,2026-10-14 11:05:00,2026-10-14 11:23:21,departed,False,False,18.0
+2026-10-14,CX766,Cathay Pacific,2026-10-14 11:05:00,2026-10-14 11:35:50,departed,False,False,31.0
+2026-10-14,VJ887,VietJet Air,2026-10-14 11:10:00,2026-10-14 11:49:16,departed,False,False,39.0
+2026-10-14,KE342,Korean Air Cargo,2026-10-14 11:15:00,2026-10-14 11:42:11,departed,False,False,27.0
+2026-10-14,VJ803,VietJet Air,2026-10-14 11:15:00,2026-10-14 12:03:01,departed,False,False,48.0
+2026-10-14,AE1858,Mandarin Airlines,2026-10-14 11:20:00,2026-10-14 11:44:20,departed,False,False,24.0
+2026-10-14,VN7184,Vietnam Airlines,2026-10-14 11:20:00,2026-10-14 12:32:53,departed,False,False,73.0
+2026-10-14,VJ335,VietJet Air,2026-10-14 11:20:00,2026-10-14 12:05:45,departed,False,False,46.0
+2026-10-14,VJ134,VietJet Air (Petrolimex Sticker),2026-10-14 11:20:00,2026-10-14 13:20:03,departed,False,False,120.0
+2026-10-14,VN1276,Vietnam Airlines,2026-10-14 11:25:00,2026-10-14 11:45:55,departed,False,False,21.0
+2026-10-14,JX712,STARLUX,2026-10-14 11:30:00,2026-10-14 11:59:55,departed,False,False,30.0
+2026-10-14,VN605,Vietnam Airlines,2026-10-14 11:30:00,2026-10-14 11:57:48,departed,False,False,28.0
+2026-10-14,VJ1327,VietJet Air,2026-10-14 11:35:00,2026-10-14 11:51:34,departed,False,False,17.0
+2026-10-14,9G1969,Sun PhuQuoc Airways,2026-10-14 11:35:00,2026-10-14 11:54:30,departed,False,False,20.0
+2026-10-14,VN6036,Vietnam Airlines,2026-10-14 11:45:00,2026-10-14 12:11:11,departed,False,False,26.0
+2026-10-14,K6825,Air Cambodia,2026-10-14 11:50:00,2026-10-14 12:16:00,departed,False,False,26.0
+2026-10-14,VU131,Vietravel Airlines,2026-10-14 11:50:00,2026-10-14 12:18:46,departed,False,False,29.0
+2026-10-14,CZ8160,China Southern Airlines,2026-10-14 11:55:00,2026-10-14 12:13:38,departed,False,False,19.0
+2026-10-14,VN212,Vietnam Airlines,2026-10-14 12:00:00,2026-10-14 12:26:20,departed,False,False,26.0
+2026-10-14,VJ1329,"VietJet Air (Vietnam, Timeless Charm livery)",2026-10-14 12:00:00,2026-10-14 12:23:04,departed,False,False,23.0
+2026-10-14,VJ136,VietJet Air,2026-10-14 12:00:00,2026-10-14 12:54:27,departed,False,False,54.0
+2026-10-14,K6817,Air Cambodia,2026-10-14 12:00:00,2026-10-14 12:20:18,departed,False,False,20.0
+2026-10-14,OZ732,Asiana Airlines,2026-10-14 12:05:00,2026-10-14 12:28:17,departed,False,False,23.0
+2026-10-14,VN8089,VASCO,2026-10-14 12:10:00,2026-10-14 12:30:04,departed,False,False,20.0
+2026-10-14,VJ860,VietJet Air,2026-10-14 12:20:00,2026-10-14 12:49:44,departed,False,False,30.0
+2026-10-14,SQ177,Singapore Airlines,2026-10-14 12:20:00,2026-10-14 12:24:52,departed,False,False,5.0
+2026-10-14,MF894,Xiamen Air,2026-10-14 12:25:00,2026-10-14 12:36:58,departed,False,False,12.0
+2026-10-14,9G840,Sun PhuQuoc Airways,2026-10-14 12:25:00,2026-10-14 12:41:43,departed,False,False,17.0
+2026-10-14,VU778,Vietravel Airlines,2026-10-14 12:40:00,2026-10-14 13:16:24,departed,False,False,36.0
+2026-10-14,AK529,AirAsia,2026-10-14 12:40:00,2026-10-14 12:58:02,departed,False,False,18.0
+2026-10-14,BR392,EVA Air,2026-10-14 12:50:00,2026-10-14 13:11:50,departed,False,False,22.0
+2026-10-14,VJ374,VietJet Air,2026-10-14 12:55:00,2026-10-14 13:08:13,departed,False,False,13.0
+2026-10-14,CZ6078,China Southern Airlines,2026-10-14 12:55:00,2026-10-14 13:05:46,departed,False,False,11.0
+2026-10-14,VN7346,Vietnam Airlines,2026-10-14 13:00:00,2026-10-14 13:10:18,departed,False,False,10.0
+2026-10-14,VJ636,VietJet Air,2026-10-14 13:00:00,2026-10-14 14:06:48,departed,False,False,67.0
+2026-10-14,VN248,Vietnam Airlines,2026-10-14 13:00:00,2026-10-14 13:58:38,departed,False,False,59.0
+2026-10-14,VJ138,VietJet Air,2026-10-14 13:05:00,2026-10-14 13:46:40,departed,False,False,42.0
+2026-10-14,VN1827,Vietnam Airlines,2026-10-14 13:05:00,2026-10-14 13:23:07,departed,False,False,18.0
+2026-10-14,VN1344,Vietnam Airlines,2026-10-14 13:05:00,2026-10-14 13:14:41,departed,False,False,10.0
+2026-10-14,VJ807,VietJet Air,2026-10-14 13:15:00,2026-10-14 13:52:05,departed,False,False,37.0
+2026-10-14,VU550,Vietravel Airlines,2026-10-14 13:15:00,2026-10-14 13:38:05,departed,False,False,23.0
+2026-10-14,VU678,Vietravel Airlines,2026-10-14 13:20:00,2026-10-14 13:48:58,departed,False,False,29.0
+2026-10-14,VN132,Vietnam Airlines,2026-10-14 13:25:00,2026-10-14 14:09:05,departed,False,False,44.0
+2026-10-14,VJ638,VietJet Air,2026-10-14 13:30:00,2026-10-14 13:55:37,departed,False,False,26.0
+2026-10-14,AK1503,AirAsia,2026-10-14 13:30:00,2026-10-14 13:28:18,departed,False,False,-2.0
+2026-10-14,VN6440,Vietnam Airlines,2026-10-14 13:35:00,2026-10-14 13:44:15,departed,False,False,9.0
+2026-10-14,0V8063,VASCO,2026-10-14 13:35:00,2026-10-14 13:41:27,departed,False,False,6.0
+2026-10-14,VN594,Vietnam Airlines,2026-10-14 13:35:00,2026-10-14 14:01:50,departed,False,False,27.0
+2026-10-14,VJ252,VietJet Air,2026-10-14 13:40:00,2026-10-14 14:14:39,departed,False,False,35.0
+2026-10-14,VJ1321,VietJet Air,2026-10-14 13:45:00,2026-10-14 14:04:22,departed,False,False,19.0
+2026-10-14,VN7416,Vietnam Airlines,2026-10-14 13:50:00,2026-10-14 14:17:07,departed,False,False,27.0
+2026-10-14,VN1394,Vietnam Airlines,2026-10-14 13:50:00,2026-10-14 14:31:04,departed,False,False,41.0
+2026-10-14,VJ278,VietJet Air,2026-10-14 13:55:00,2026-10-14 14:12:33,departed,False,False,18.0
+2026-10-14,KE472,Korean Air,2026-10-14 13:55:00,2026-10-14 14:28:48,departed,False,False,34.0
+2026-10-14,VN8097,Vietnam Airlines,2026-10-14 14:00:00,N/A,estimated,False,False,0.0
+2026-10-14,VJ214,VietJet Air,2026-10-14 14:00:00,2026-10-14 15:16:51,departed,False,False,77.0
+2026-10-14,VN214,Vietnam Airlines,2026-10-14 14:00:00,2026-10-14 14:50:15,departed,False,False,50.0
+2026-10-14,VN7388,Vietnam Airlines,2026-10-14 14:05:00,2026-10-14 14:18:46,departed,False,False,14.0
+2026-10-14,9G846,Sun PhuQuoc Airways,2026-10-14 14:10:00,2026-10-14 14:21:23,departed,False,False,11.0
+2026-10-14,VN1266,Vietnam Airlines,2026-10-14 14:15:00,2026-10-14 14:24:33,departed,False,False,10.0
+2026-10-14,VJ308,VietJet Air,2026-10-14 14:20:00,N/A,estimated,False,False,0.0
+2026-10-14,VJ140,VietJet Air,2026-10-14 14:20:00,2026-10-14 15:28:26,departed,False,False,68.0
+2026-10-14,VJ325,VietJet Air,2026-10-14 14:25:00,2026-10-14 14:44:40,departed,False,False,20.0
+2026-10-14,VJ362,VietJet Air,2026-10-14 14:35:00,2026-10-14 14:47:10,departed,False,False,12.0
+2026-10-14,VN1422,Vietnam Airlines,2026-10-14 14:45:00,2026-10-14 14:52:30,departed,False,False,8.0
+2026-10-14,CZ8466,China Southern Airlines,2026-10-14 14:45:00,2026-10-14 14:41:24,departed,False,False,-4.0
+2026-10-14,VJ327,VietJet Air,2026-10-14 14:50:00,N/A,estimated,False,False,0.0
+2026-10-14,VN250,Vietnam Airlines,2026-10-14 15:00:00,2026-10-14 15:19:09,departed,False,False,19.0
+2026-10-14,VJ876,VietJet Air,2026-10-14 15:10:00,2026-10-14 15:56:00,departed,False,False,46.0
+2026-10-14,VJ640,VietJet Air,2026-10-14 15:10:00,2026-10-14 15:30:03,departed,False,False,20.0
+2026-10-14,VJ280,VietJet Air,2026-10-14 15:15:00,2026-10-14 16:16:48,departed,False,False,62.0
+2026-10-14,0V8093,VASCO,2026-10-14 15:15:00,2026-10-14 15:14:12,departed,False,False,-1.0
+2026-10-14,QR970,Qatar Airways (Oneworld Livery),2026-10-14 15:20:00,2026-10-14 15:32:28,departed,False,False,12.0
+2026-10-14,VN679,Vietnam Airlines,2026-10-14 15:25:00,2026-10-14 15:35:53,departed,False,False,11.0
+2026-10-14,9G400,Sun PhuQuoc Airways,2026-10-14 15:25:00,2026-10-14 15:38:55,departed,False,False,14.0
+2026-10-14,VN8069,VASCO,2026-10-14 15:30:00,2026-10-14 15:25:06,departed,False,False,-5.0
+2026-10-14,VN1829,Vietnam Airlines,2026-10-14 15:30:00,2026-10-14 15:40:26,departed,False,False,10.0
+2026-10-14,VN134,Vietnam Airlines,2026-10-14 15:30:00,N/A,canceled,True,False,
+2026-10-14,9G854,Sun PhuQuoc Airways,2026-10-14 15:30:00,2026-10-14 15:48:11,departed,False,False,18.0
+2026-10-14,VN7024,Vietnam Airlines,2026-10-14 15:35:00,N/A,canceled,True,False,
+2026-10-14,VN1374,Air Cambodia,2026-10-14 15:35:00,2026-10-14 15:42:41,departed,False,False,8.0
+2026-10-14,PR598,Philippine Airlines,2026-10-14 15:35:00,2026-10-14 15:45:28,departed,False,False,10.0
+2026-10-14,TR553,Scoot,2026-10-14 15:40:00,2026-10-14 15:59:22,departed,False,False,19.0
+2026-10-14,BR396,EVA Air,2026-10-14 15:45:00,2026-10-14 15:53:31,departed,False,False,9.0
+2026-10-14,CZ374,China Southern Airlines,2026-10-14 15:50:00,2026-10-14 15:51:02,departed,False,False,1.0
+2026-10-14,SQ183,Singapore Airlines,2026-10-14 15:50:00,2026-10-14 16:09:13,departed,False,False,19.0
+2026-10-14,FD655,AirAsia,2026-10-14 15:55:00,2026-10-14 16:37:53,departed,False,False,43.0
+2026-10-14,VN1468,Vietnam Airlines,2026-10-14 15:55:00,2026-10-14 16:14:42,departed,False,False,20.0
+2026-10-14,VJ144,VietJet Air,2026-10-14 15:55:00,2026-10-14 16:43:04,departed,False,False,48.0
+2026-10-14,VN216,Vietnam Airlines,2026-10-14 16:00:00,2026-10-14 16:21:34,departed,False,False,22.0
+2026-10-14,VN136,Vietnam Airlines,2026-10-14 16:00:00,N/A,canceled,True,False,
+2026-10-14,VN6160,Vietnam Airlines,2026-10-14 16:05:00,2026-10-14 16:24:24,departed,False,False,19.0
+2026-10-14,VN920,Vietnam Airlines,2026-10-14 16:05:00,2026-10-14 16:11:45,departed,False,False,7.0
+2026-10-14,AK523,AirAsia,2026-10-14 16:10:00,2026-10-14 16:26:29,departed,False,False,16.0
+2026-10-14,VJ148,VietJet Air,2026-10-14 16:15:00,2026-10-14 16:29:02,departed,False,False,14.0
+2026-10-14,VJ254,VietJet Air,2026-10-14 16:20:00,2026-10-14 16:48:37,departed,False,False,29.0
+2026-10-14,VJ310,VietJet Air,2026-10-14 16:20:00,2026-10-14 17:24:42,departed,False,False,65.0
+2026-10-14,VN570,Vietnam Airlines,2026-10-14 16:30:00,2026-10-14 16:45:28,departed,False,False,15.0
+2026-10-14,VJ820,VietJet Air,2026-10-14 16:30:00,2026-10-14 16:59:24,departed,False,False,29.0
+2026-10-14,9G640,Sun PhuQuoc Airways,2026-10-14 16:35:00,2026-10-14 16:32:22,departed,False,False,-3.0
+2026-10-14,VJ394,VietJet Air,2026-10-14 16:40:00,2026-10-14 17:41:41,departed,False,False,62.0
+2026-10-14,VN252,Vietnam Airlines,2026-10-14 16:40:00,2026-10-14 17:01:45,departed,False,False,22.0
+2026-10-14,VJ146,VietJet Air,2026-10-14 16:45:00,2026-10-14 19:20:01,departed,False,False,155.0
+2026-10-14,VN7264,Vietnam Airlines,2026-10-14 16:45:00,N/A,estimated,False,False,0.0
+2026-10-14,VN140,Vietnam Airlines,2026-10-14 16:45:00,2026-10-14 17:07:25,departed,False,False,22.0
+2026-10-14,VN607,Vietnam Airlines (SkyTeam Livery),2026-10-14 16:50:00,2026-10-14 16:56:36,departed,False,False,7.0
+2026-10-14,0V8440,VASCO,2026-10-14 17:00:00,2026-10-14 17:17:19,departed,False,False,17.0
+2026-10-14,VN657,Vietnam Airlines,2026-10-14 17:00:00,2026-10-14 17:15:00,departed,False,False,15.0
+2026-10-14,VN254,Vietnam Airlines,2026-10-14 17:00:00,2026-10-14 17:32:47,departed,False,False,33.0
+2026-10-14,VU780,Vietravel Airlines,2026-10-14 17:10:00,2026-10-14 17:29:54,departed,False,False,20.0
+2026-10-14,VJ384,VietJet Air,2026-10-14 17:10:00,2026-10-14 17:20:15,departed,False,False,10.0
+2026-10-14,VJ152,VietJet Air,2026-10-14 17:10:00,2026-10-14 17:55:51,departed,False,False,46.0
+2026-10-14,VN813,Vietnam Airlines,2026-10-14 17:15:00,2026-10-14 17:27:27,departed,False,False,12.0
+2026-10-14,VJ805,VietJet Air,2026-10-14 17:15:00,2026-10-14 17:35:56,departed,False,False,21.0
+2026-10-14,VN1386,Vietnam Airlines,2026-10-14 17:30:00,2026-10-14 17:39:01,departed,False,False,9.0
+2026-10-14,CI784,China Airlines,2026-10-14 17:30:00,2026-10-14 17:43:49,departed,False,False,14.0
+2026-10-14,9G978,Sun PhuQuoc Airways,2026-10-14 17:30:00,2026-10-14 17:47:06,departed,False,False,17.0
+2026-10-14,VU1102,Vietravel Airlines,2026-10-14 17:35:00,2026-10-14 17:52:58,departed,False,False,18.0
+2026-10-14,VJ282,VietJet Air,2026-10-14 17:40:00,2026-10-14 18:10:59,departed,False,False,31.0
+2026-10-14,VN98,Vietnam Airlines,2026-10-14 17:40:00,2026-10-14 18:02:16,departed,False,False,22.0
+2026-10-14,VJ262,VietJet Air,2026-10-14 17:40:00,2026-10-14 18:05:08,departed,False,False,25.0
+2026-10-14,VJ150,VietJet Air (Petrolimex Sticker),2026-10-14 17:40:00,2026-10-14 20:14:30,departed,False,False,154.0
+2026-10-14,VN580,Vietnam Airlines,2026-10-14 17:50:00,2026-10-14 17:58:55,departed,False,False,9.0
+2026-10-14,VN1186,Vietnam Airlines,2026-10-14 17:55:00,2026-10-14 18:27:00,departed,False,False,32.0
+2026-10-14,VN979,Vietnam Airlines,2026-10-14 18:00:00,2026-10-14 18:21:27,departed,False,False,21.0
+2026-10-14,VN218,Vietnam Airlines,2026-10-14 18:00:00,2026-10-14 18:24:09,departed,False,False,24.0
+2026-10-14,9G1522,Sun PhuQuoc Airways,2026-10-14 18:00:00,2026-10-14 18:13:24,departed,False,False,13.0
+2026-10-14,9G860,Sun PhuQuoc Airways,2026-10-14 18:00:00,2026-10-14 18:15:59,departed,False,False,16.0
+2026-10-14,VJ3948,VietJet Air,2026-10-14 18:05:00,2026-10-14 18:40:10,departed,False,False,35.0
+2026-10-14,JX714,STARLUX,2026-10-14 18:05:00,2026-10-14 18:18:29,departed,False,False,13.0
+2026-10-14,VJ352,VietJet Air,2026-10-14 18:10:00,2026-10-14 18:31:58,departed,False,False,22.0
+2026-10-14,VU303,Vietravel Airlines,2026-10-14 18:15:00,N/A,unknown,False,False,
+2026-10-14,TR517,Scoot,2026-10-14 18:15:00,2026-10-14 18:50:07,departed,False,False,35.0
+2026-10-14,VN1414,Vietnam Airlines,2026-10-14 18:15:00,2026-10-14 18:35:06,departed,False,False,20.0
+2026-10-14,VN609,Vietnam Airlines,2026-10-14 18:20:00,2026-10-14 18:42:20,departed,False,False,22.0
+2026-10-14,CX764,Cathay Pacific,2026-10-14 18:20:00,2026-10-14 18:29:22,departed,False,False,9.0
+2026-10-14,VJ376,VietJet Air,2026-10-14 18:25:00,2026-10-14 19:25:22,departed,False,False,60.0
+2026-10-14,9G1985,Sun PhuQuoc Airways,2026-10-14 18:25:00,2026-10-14 18:47:40,departed,False,False,23.0
+2026-10-14,VJ642,VietJet Air,2026-10-14 18:30:00,2026-10-14 18:52:54,departed,False,False,23.0
+2026-10-14,VJ216,VietJet Air,2026-10-14 18:40:00,2026-10-14 19:27:53,departed,False,False,48.0
+2026-10-14,VJ154,VietJet Air,2026-10-14 18:45:00,2026-10-14 19:13:06,departed,False,False,28.0
+2026-10-14,9G868,Vietnam Airlines,2026-10-14 18:45:00,2026-10-14 18:55:35,departed,False,False,11.0
+2026-10-14,VN142,Vietnam Airlines,2026-10-14 18:55:00,2026-10-14 19:02:09,departed,False,False,7.0
+2026-10-14,9C7348,Spring Airlines,2026-10-14 18:55:00,2026-10-14 19:07:14,departed,False,False,12.0
+2026-10-14,VN1268,Vietnam Airlines,2026-10-14 18:55:00,2026-10-14 19:04:15,departed,False,False,9.0
+2026-10-14,VN258,Vietnam Airlines,2026-10-14 19:00:00,2026-10-14 19:32:38,departed,False,False,33.0
+2026-10-14,9G984,Sun PhuQuoc Airways,2026-10-14 19:00:00,2026-10-14 19:10:37,departed,False,False,11.0
+2026-10-14,VN6150,Vietnam Airlines,2026-10-14 19:10:00,2026-10-14 19:22:03,departed,False,False,12.0
+2026-10-14,VJ1805,VietJet Air,2026-10-14 19:10:00,2026-10-14 19:36:53,departed,False,False,27.0
+2026-10-14,MU9634,China Eastern Airlines,2026-10-14 19:10:00,2026-10-14 19:15:03,departed,False,False,5.0
+2026-10-14,VJ1801,VietJet Air,2026-10-14 19:20:00,2026-10-14 19:42:32,departed,False,False,23.0
+2026-10-14,VJ644,VietJet Air,2026-10-14 19:20:00,2026-10-14 20:23:14,departed,False,False,63.0
+2026-10-14,VJ895,VietJet Air,2026-10-14 19:25:00,2026-10-14 20:20:27,departed,False,False,55.0
+2026-10-14,MH767,Malaysia Airlines,2026-10-14 19:25:00,2026-10-14 19:51:51,departed,False,False,27.0
+2026-10-14,VN146,Vietnam Airlines,2026-10-14 19:35:00,2026-10-14 19:34:55,departed,False,False,0.0
+2026-10-14,SQ185,Singapore Airlines,2026-10-14 19:40:00,2026-10-14 19:54:59,departed,False,False,15.0
+2026-10-14,VU1390,Vietravel Airlines,2026-10-14 19:45:00,N/A,unknown,False,False,
+2026-10-14,VN671,Vietnam Airlines,2026-10-14 19:45:00,2026-10-14 19:57:38,departed,False,False,13.0
+2026-10-14,VN1376,Air Cambodia,2026-10-14 19:55:00,2026-10-14 20:03:33,departed,False,False,9.0
+2026-10-14,VJ85,VietJet Air (Coca-Cola Livery),2026-10-14 19:55:00,2026-10-14 20:31:57,departed,False,False,37.0
+2026-10-14,VJ3900,VietJet Air,2026-10-14 20:00:00,2026-10-14 20:35:19,departed,False,False,35.0
+2026-10-14,QR971,Qatar Airways (Oneworld Livery),2026-10-14 20:00:00,2026-10-14 20:17:24,departed,False,False,17.0
+2026-10-14,VN220,Vietnam Airlines,2026-10-14 20:00:00,2026-10-14 20:26:17,departed,False,False,26.0
+2026-10-14,9G988,Sun PhuQuoc Airways,2026-10-14 20:05:00,2026-10-14 20:11:49,departed,False,False,7.0
+2026-10-14,TG557,Thai Airways,2026-10-14 20:10:00,2026-10-14 20:29:17,departed,False,False,19.0
+2026-10-14,VJ160,VietJet Air,2026-10-14 20:30:00,2026-10-14 21:13:05,departed,False,False,43.0
+2026-10-14,VN1835,Vietnam Airlines,2026-10-14 20:30:00,2026-10-14 20:37:42,departed,False,False,8.0
+2026-10-14,VN256,Vietnam Airlines,2026-10-14 20:30:00,2026-10-14 21:18:52,departed,False,False,49.0
+2026-10-14,VJ1156,VietJet Air,2026-10-14 20:40:00,2026-10-14 21:25:05,departed,False,False,45.0
+2026-10-14,VN773,Vietnam Airlines,2026-10-14 20:45:00,2026-10-14 20:49:48,departed,False,False,5.0
+2026-10-14,HU768,Hainan Airlines,2026-10-14 20:50:00,2026-10-14 21:30:22,departed,False,False,40.0
+2026-10-14,AI2389,Air India,2026-10-14 20:55:00,2026-10-14 20:58:06,departed,False,False,3.0
+2026-10-14,VN260,Vietnam Airlines,2026-10-14 21:00:00,2026-10-14 21:04:11,departed,False,False,4.0
+2026-10-14,VU684,Vietravel Airlines,2026-10-14 21:10:00,N/A,unknown,False,False,
+2026-10-14,VJ652,VietJet Air,2026-10-14 21:10:00,2026-10-14 21:27:01,departed,False,False,17.0
+2026-10-14,AK525,AirAsia,2026-10-14 21:10:00,2026-10-14 21:15:45,departed,False,False,6.0
+2026-10-14,VN781,Vietnam Airlines,2026-10-14 21:25:00,2026-10-14 21:22:17,departed,False,False,-3.0
+2026-10-14,FD659,AirAsia,2026-10-14 21:35:00,2026-10-14 22:30:21,departed,False,False,55.0
+2026-10-14,VJ3908,VietJet Air,2026-10-14 21:45:00,N/A,estimated,False,False,0.0
+2026-10-14,LD562,DHL,2026-10-14 21:50:00,2026-10-14 22:03:56,departed,False,False,14.0
+2026-10-14,9G882,Sun PhuQuoc Airways,2026-10-14 21:55:00,2026-10-14 22:06:39,departed,False,False,12.0
+2026-10-14,VN224,Vietnam Airlines,2026-10-14 22:00:00,N/A,estimated,False,False,0.0
+2026-10-14,TK163,Turkish Airlines,2026-10-14 22:05:00,2026-10-14 22:17:11,departed,False,False,12.0
+2026-10-14,VU8602,Vietravel Airlines,2026-10-14 22:10:00,2026-10-14 22:22:45,departed,False,False,13.0
+2026-10-14,VJ1128,VietJet Air,2026-10-14 22:15:00,2026-10-14 22:27:44,departed,False,False,13.0
+2026-10-14,VJ858,VietJet Air,2026-10-14 22:25:00,N/A,estimated,False,False,0.0
